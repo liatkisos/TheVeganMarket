@@ -1,0 +1,15 @@
+{"_id":{"$oid":"5d1f9cece71c040d03f5a9ff"},"userId":{"$numberInt":"222222222"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1f9e0806db720d36f93f4b"},"userId":{"$numberInt":"222222222"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1f9f4f8ff1be0d70f96a3c"},"userId":{"$numberInt":"222222222"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1f9f548ff1be0d70f96a3e"},"userId":{"$numberInt":"222222222"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1f9f598ff1be0d70f96a40"},"userId":{"$numberInt":"222222222"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1f9f698ff1be0d70f96a42"},"userId":{"$numberInt":"222222222"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1f9f728ff1be0d70f96a44"},"userId":{"$numberInt":"222222222"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1f9f848ff1be0d70f96a46"},"userId":{"$numberInt":"222222222"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1fa09a8ff1be0d70f96a49"},"userId":{"$numberInt":"333333333"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1fa0b78ff1be0d70f96a4d"},"userId":{"$numberInt":"333333333"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1fa44ce02c820eb0ddb03a"},"userId":{"$numberInt":"222222222"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1fa451e02c820eb0ddb03c"},"userId":{"$numberInt":"222222222"},"cartDate":"7/5/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1fd1ae6126ef1e03e208a4"},"userId":{"$numberInt":"222222222"},"cartDate":"7/6/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d2081a96126ef1e03e208a7"},"userId":{"$numberInt":"222222222"},"cartDate":"7/6/2019","isOpen":false,"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d2082096126ef1e03e208aa"},"userId":{"$numberInt":"222222222"},"cartDate":"7/6/2019","isOpen":false,"__v":{"$numberInt":"0"}}

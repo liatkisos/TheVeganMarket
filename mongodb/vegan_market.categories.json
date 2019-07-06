@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5d1bc246926354fb128a0bee"},"categoryName":"Fresh Produce","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1bc246926354fb128a0bef"},"categoryName":"Refrigerated","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1bc246926354fb128a0bf0"},"categoryName":"Frozen","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1bc246926354fb128a0bf1"},"categoryName":"Drinks","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d1bc246926354fb128a0bf2"},"categoryName":"Sweets","__v":{"$numberInt":"0"}}
